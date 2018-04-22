@@ -1,7 +1,7 @@
-# ["Программирование на языке C (Си)"](https://www.specialist.ru/course/si)
-## Домашние задания по курсу
+# *Курс* ["Программирование на языке C (Си)"](https://www.specialist.ru/course/si)
+## *Домашние задания*
 ### [Центр "Специалист"](https://www.specialist.ru)  
-#### [Программа "Java разработчик"](https://www.specialist.ru/track/t-dgvdev)
+#### *Программа* ["Java разработчик"](https://www.specialist.ru/track/t-dgvdev)
 
 Andrey Ponomarev (Андрей Пономарев)
 
