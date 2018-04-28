@@ -48,7 +48,9 @@ int main (){
 
     // если b указывает на c, написать scanf(%d, ...), изменяющий то, чему равно c, но с в scanf писать нельзя
     printf("As a pointer to the value of \"c\" \"b\" could be used now to change it.\n");
-    printf("By doing *b = 45; we change the value of \"c\" to %d.\n", *b = 45);
+    printf("Input a number : ");
+    scanf("%d", &*b);
+    printf("Using &*b in scanf we change the value of \"c\" to %d.\n", *b);
     printf("So, that \"c\" returns now %d.\n", c);
 
 

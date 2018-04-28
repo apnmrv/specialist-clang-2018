@@ -5,11 +5,11 @@ int main() {
 	char firstName[10];
 	char lastName[20];
 	printf("Input your first name: ");
-	scanf("%s",firstName);
+	scanf("%s",&firstName);
 	printf("Input your last name: ");
-	scanf("%s",lastName);
-		
+	scanf("%s",&lastName);
+
 	printf("Hello, %s %s!", firstName, lastName);
-	
+
 	return 0;
 }
